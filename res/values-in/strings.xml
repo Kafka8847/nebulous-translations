@@ -696,7 +696,7 @@
     <string name="Delete_Message">"Hapus Pesan"</string>
     <string name="BLOCK">"BLOKIR"</string>
     <string name="DELETE">"HAPUS"</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Catatan Penting: Jika anda ingin mengetahui seseorang sudah dibuka blokir, kirim permintaan teman ke pada orang itu, jika permintaan teman terlihat di daftar teman anda itu berarti sudah terbuka blokir."</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Catatan: Anda Bisa Membatalkan Blokir Dengan Mengirim Pertemanan"</string>
     <string name="Select_Friend">"Pilih Teman"</string>
     <string name="Failed_to_send_mail_">"Kirim surat gagal."</string>
     <string name="In_Game_Mail">"Tampilkan Mail Permainan"</string>
